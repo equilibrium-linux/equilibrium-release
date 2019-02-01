@@ -1,0 +1,14 @@
+Source: equilibrium-release
+Section: unknown
+Priority: optional
+Maintainer: Zeljko Stevanovic <zsteva+equilibrium@gmail.com>
+Build-Depends: gnupg, debian-keyring, debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: https://anonscm.debian.org/git/collab-maint/equilibrium-release.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/equilibrium-release.git
+
+Package: equilibrium-release
+Architecture: any
+Description: gpg keys
+ gpg keys
